@@ -1,0 +1,4 @@
+/* Optional: make cards look consistent */
+.card {
+  border-radius: 10px;
+}
